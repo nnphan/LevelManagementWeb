@@ -6,3 +6,7 @@
 /LevelManagement/LevelManagement.Common/obj
 /LevelManagement/LevelManagement.Models/obj
 /LevelManagement/LevelManagement.Web/obj
+/LevelManagement/LevelManagement.Web/Properties/PublishProfiles
+/LevelManagement/LevelManagement.Web/bin
+/LevelManagement/LevelManagement.Web/LevelManagement.Web.csproj.user
+/LevelManagement/.vs/LevelManagement/config
