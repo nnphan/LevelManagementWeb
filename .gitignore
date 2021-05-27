@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/LevelManagement/.vs/LevelManagement/v16
+/LevelManagement/LevelManagement.Common/obj
+/LevelManagement/LevelManagement.Models/obj
+/LevelManagement/LevelManagement.Web/obj
