@@ -15,3 +15,7 @@
 /LevelManagement/LevelManagement.Common/LevelManagement.Common.csproj.user
 /LevelManagement/LevelManagement.Model/bin/Release/netcoreapp3.1
 /LevelManagement/LevelManagement.Model/obj
+/LevelManagement/.vs/LevelManagement/DesignTimeBuild
+/LevelManagement/LevelManagement.Model/bin/Debug/netcoreapp3.1
+/LevelManagement/LevelManagement.Model/Properties/PublishProfiles
+/LevelManagement/LevelManagement.Model/LevelManagement.Model.csproj.user
