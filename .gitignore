@@ -10,3 +10,8 @@
 /LevelManagement/LevelManagement.Web/bin
 /LevelManagement/LevelManagement.Web/LevelManagement.Web.csproj.user
 /LevelManagement/.vs/LevelManagement/config
+/LevelManagement/LevelManagement.Common/bin
+/LevelManagement/LevelManagement.Common/Properties/PublishProfiles
+/LevelManagement/LevelManagement.Common/LevelManagement.Common.csproj.user
+/LevelManagement/LevelManagement.Model/bin/Release/netcoreapp3.1
+/LevelManagement/LevelManagement.Model/obj
